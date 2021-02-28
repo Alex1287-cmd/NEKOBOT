@@ -60,4 +60,4 @@ after running it you need to scan the qr
 
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`ArugaZ`](https://github.com/ArugaZ) 
-* [`Zhirrr`](https://github.com/Zhirrr
+* [`Zhirrr`](https://github.com/Zhirrr)
