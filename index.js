@@ -32,7 +32,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'ORG: Pengembang XBot;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=6283898698875:+62 838-9869-8875\n' 
             + 'END:VCARD' 
-prefix = '#'
+prefix = '!'
 blocked = []          
 
 /*********** LOAD FILE ***********/
@@ -198,8 +198,8 @@ client.on('group-participants-update', async (anu) => {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '❬❗❭ 𝗪𝗔𝗜𝗧, 𝗹𝗮𝗴𝗶 𝗽𝗿𝗼𝘀𝗲𝘀',
-				success: '️❬ ✔ ❭ 𝘀𝘂𝗰𝗰𝗲𝘀𝘀 🖤',
+				wait: '_otewe gak pakek remm_',
+				success: '️❬ ✔ ❭ *BERESS OM*',
 				levelon: '❬ ✔ ❭ *enable leveling*',
 				leveloff: ' ❬ X ❭  *disable leveling*',
 				levelnoton: '❬ X ❭ *leveling not aktif*',
