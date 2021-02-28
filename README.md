@@ -4,7 +4,7 @@
 <a href="#"><img title="BOT WHATSAPP" src="https://img.shields.io/badge/Bot Whatsapp-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Alex1287-cmd"><img title="Author" src="https://img.shields.io/badge/Author-Alex1287-cmd-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Alex1287-cmd"><img title="Author" src="https://img.shields.io/badge/Author/-Alex1287-cmd-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Alex1287-cmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/Alex1287-cmd?color=red&style=flat-square"></a>
